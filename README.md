@@ -104,14 +104,6 @@ superpower:  "Reduced error rate from 15% to <1% 🧹"
 
 ---
 
-## Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=OumaimaElAsri&theme=gitdimmed&no-frame=true&column=7&margin-w=6" width="100%"/>
-</div>
-
----
-
 <div align="center">
 
 **✦ Let's build something that matters with data ✦**
