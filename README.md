@@ -1,148 +1,121 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1f6feb,100:388bfd&height=220&section=header&text=Oumaima%20El%20Asri&fontSize=60&fontColor=e6edf3&fontAlignY=40&desc=✦%20Data%20Engineer%20%20·%20%20ML%20Engineer%20%20·%20%20Full-Stack%20Data%20✦&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Oumaima%20El%20Asri&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+data+pipelines+that+matter+%F0%9F%9A%80;Python+%7C+Spark+%7C+Power+BI+%7C+ML;Turning+raw+data+into+smart+decisions+%F0%9F%A7%A0;Open+to+alternance+opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=388BFD&center=true&vCenter=true&width=700&lines=🔥+Transforming+raw+data+into+smart+decisions;🧠+Big+Data+·+Machine+Learning+·+ETL+Pipelines;⚡+Apache+Spark+·+Airflow+·+Power+BI+·+Azure;🌍+Based+in+Nantes+·+Open+to+alternance+2026)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-oumaimaelasri-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumaimaelasri/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-oumaimaelasri.github.io-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://oumaimaelasri.github.io/)
-[![Email](https://img.shields.io/badge/Email-elasriioumaima@gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elasriioumaima@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Nantes,_France-4c1d95?style=for-the-badge)](https://github.com/OumaimaElAsri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumaimaelasri/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23238636.svg?style=for-the-badge&logo=github&logoColor=white)](https://oumaimaelasri.github.io/)
+[![Email](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elasriioumaima@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=OumaimaElAsri&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/OumaimaElAsri)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OumaimaElAsri&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="38%"/>
 
-```python
-class OumaimaElAsri:
-    def __init__(self):
-        self.name       = "Oumaima El Asri"
-        self.role       = "M1 Expert Informatique & SI @ EPSI Nantes"
-        self.focus      = ["Data Engineering", "Machine Learning", "Full-Stack Data"]
-        self.looking_for = "Alternance · Data Analyst / Engineer / Scientist"
-        self.languages  = ["🇫🇷 Français", "🇬🇧 Anglais", "🇲🇦 Arabe"]
-        self.fun_fact   = "I turned a 15% error rate → <1% with a Python script 🧹"
+### `> whoami`
 
-    def say_hi(self):
-        print("Let's turn data into decisions! 🚀")
+```yaml
+name:        Oumaima El Asri
+location:    Nantes, France 🇫🇷
+education:   M1 Expert Informatique & SI · EPSI
+focus:
+  - 📦 Data Engineering   (Spark, Airflow, ETL)
+  - 🤖 Machine Learning   (Scikit-learn, RandomForest)
+  - 📊 Data Analysis      (Power BI, Pandas, SQL)
+  - 🌐 Full-Stack Data    (React, Python, APIs)
+seeking:     Alternance · Data Analyst / Engineer / Scientist
+languages:   🇫🇷 Français  🇬🇧 English  🇲🇦 عربي
+superpower:  "Reduced error rate from 15% to <1% 🧹"
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Universe
 
 <div align="center">
 
-### 📊 Data, ML & Analysis
-<img src="https://skillicons.dev/icons?i=python,r,jupyter&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+**── Core Languages ──**
 
-### ⚙️ Data Engineering & Cloud
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,r,java,typescript,bash&theme=dark&perline=5" />
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<br/><br/>
 
-### 🌐 Dev & Backend
-<img src="https://skillicons.dev/icons?i=react,typescript,java,spring,github,gitlab&theme=dark" />
+**── Data Engineering & Cloud ──**
+
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,linux&theme=dark&perline=5" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-238636?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+
+<br/><br/>
+
+**── ML & Analysis ──**
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<br/><br/>
+
+**── Databases ──**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark&perline=4" />
+
+<br/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Avancé-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br/><br/>
+
+**── Dev & Collaboration ──**
+
+<img src="https://skillicons.dev/icons?i=react,spring,github,gitlab,vscode,figma&theme=dark&perline=6" />
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats & Contributions
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OumaimaElAsri&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OumaimaElAsri&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OumaimaElAsri&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&icon_color=388bfd&title_color=388bfd"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=OumaimaElAsri&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=388bfd&fire=ff7b72&currStreakLabel=388bfd"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OumaimaElAsri&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa" width="70%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OumaimaElAsri&theme=tokyo-night&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OumaimaElAsri&theme=github-compact&hide_border=true&area=true&area_color=1f6feb&color=388bfd&line=388bfd&point=e6edf3" width="100%"/>
 </div>
 
 ---
 
-## 💼 Experience Highlights
-
-<table>
-<tr>
-<td width="50%">
-
-**🔷 Data Full Stack Developer**
-*UGSEL · Stage · 2026*
-- Built **TournoUGSEL** — competition management tool for 25 schools & ~500 participants
-- ETL scripts for XLS/XLSX files integration
-- Auto pool-generation algorithm by level & geography
-
-</td>
-<td width="50%">
-
-**🔷 Administratrice Systèmes**
-*Marsa Maroc · Stage · 2024–2025*
-- Python data cleaning: error rate **15% → <1%**
-- Weekly Power BI dashboards for operational teams
-- Port data system availability monitoring
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔷 Développeuse Data & ML**
-*Daher · Stage · 2024*
-- Stock prediction model J+7 (Random Forest) integrated into logistics SI
-- MySQL query optimization & data restructuring
-- Decision-support dashboards for purchasing teams
-
-</td>
-<td width="50%">
-
-**🎓 M1 Expert Informatique & SI**
-*EPSI Nantes · 2025 – En cours*
-- Apache Spark, AWS Cloud, ETL (Airflow)
-- Machine Learning, IA, Power BI, RGPD
-- Rythme alternance: 2 semaines entreprise / 1 école
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 GitHub Trophies
+## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OumaimaElAsri&theme=onedark&no-frame=true&column=6&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=OumaimaElAsri&theme=gitdimmed&no-frame=true&column=7&margin-w=6" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
 
-### 💬 Let's connect and build something great together!
+**✦ Let's build something that matters with data ✦**
 
-[![Profile views](https://komarev.com/ghpvc/?username=OumaimaElAsri&style=for-the-badge&color=7c3aed&label=Profile+Views)](https://github.com/OumaimaElAsri)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=130&section=footer" width="100%"/>
 
 </div>
