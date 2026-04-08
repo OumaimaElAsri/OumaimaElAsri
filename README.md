@@ -71,16 +71,12 @@
 ## GitHub Stats & Contributions
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OumaimaElAsri&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&icon_color=388bfd&title_color=388bfd"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OumaimaElAsri&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&icon_color=388bfd&title_color=388bfd"/>
 <img height="180em" src="https://streak-stats.demolab.com?user=OumaimaElAsri&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=388bfd&fire=ff7b72&currStreakLabel=388bfd"/>
-
 </div>
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OumaimaElAsri&theme=github-compact&hide_border=true&area=true&color=388bfd&line=388bfd&point=e6edf3" width="100%"/>
 </div>
-
 ---
 
 <div align="center">
