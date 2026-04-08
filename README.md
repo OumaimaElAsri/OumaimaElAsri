@@ -15,31 +15,6 @@
 
 ---
 
-## About Me
-
-<!-- 👇 Replace this URL with your own banner image once you create it on Canva or Adobe Express -->
-<!-- Upload your image to your OumaimaElAsri repo and use: src="./banner.png" -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:1f2d3d&height=120&text=🧠%20Data%20girl%20who%20loves%20turning%20chaos%20into%20insights&fontSize=22&fontColor=388bfd&fontAlignY=50&desc=Nantes%20🇫🇷%20·%20EPSI%20M1%20·%20Spark%20%7C%20Airflow%20%7C%20ML%20%7C%20Power%20BI&descSize=14&descAlignY=75&descColor=8b949e" width="100%"/>
-
-<br/>
-
-```
- _______________________________________________
-|                                               |
-|  Hi, I'm Oumaima !                 🇲🇦 → 🇫🇷  |
-|                                               |
-|  • Turned 15% error rate → < 1%  with Python |
-|  • Built ML models that went live in prod     |
-|  • Obsessed with clean data & sharp visuals   |
-|  • Currently: alternance @ EPSI Nantes        |
-|  • Seeking: Data Analyst / Engineer / Sci     |
-|                                               |
-|  Fun fact: my code is cleaner than my desk   |
-|_______________________________________________|
-```
-
----
-
 ## Tech Universe
 
 <div align="center">
