@@ -36,39 +36,30 @@ class OumaimaElAsri:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 📊 Data & ML
-![Python](https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-6d28d9?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-5b21b6?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4c1d95?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-7c3aed?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-6d28d9?style=for-the-badge&logo=jupyter&logoColor=white)
+### 📊 Data, ML & Analysis
+<img src="https://skillicons.dev/icons?i=python,r,jupyter&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
-### ⚙️ Data Engineering
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-7c3aed?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-6d28d9?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-5b21b6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-4c1d95?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-7c3aed?style=for-the-badge&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-6d28d9?style=for-the-badge&logo=docker&logoColor=white)
+### ⚙️ Data Engineering & Cloud
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
 
-### 🗄️ Databases & Viz
-![MySQL](https://img.shields.io/badge/MySQL-7c3aed?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-6d28d9?style=for-the-badge&logo=oracle&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-5b21b6?style=for-the-badge&logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_Avancé-4c1d95?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
 ### 🌐 Dev & Backend
-![React](https://img.shields.io/badge/React-7c3aed?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-6d28d9?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-5b21b6?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-4c1d95?style=for-the-badge&logo=springboot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-7c3aed?style=for-the-badge&logo=git&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-6d28d9?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,typescript,java,spring,github,gitlab&theme=dark" />
 
 </div>
 
