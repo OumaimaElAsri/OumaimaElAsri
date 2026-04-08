@@ -76,7 +76,6 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OumaimaElAsri&theme=github-compact&hide_border=true&area=true&color=388bfd&line=388bfd&point=e6edf3" width="100%"/>
 </div>
----
 
 <div align="center">
 
