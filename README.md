@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=388BFD&center=true&vCenter=true&width=700&lines=🔥+Transforming+raw+data+into+smart+decisions;🧠+Big+Data+·+Machine+Learning+·+ETL+Pipelines;⚡+Apache+Spark+·+Airflow+·+Power+BI+·+Azure;🌍+Based+in+Nantes+·+Open+to+alternance+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=388BFD&center=true&vCenter=true&width=700&lines=Transforming+raw+data+into+smart+decisions;Big+Data+·+Machine+Learning+·+ETL+Pipelines;Apache+Spark+·+Airflow+·+Power+BI+·+Azure;Based+in+Nantes+·+Open+to+alternance+2026)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,25 +15,28 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OumaimaElAsri&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="38%"/>
+## About Me
 
-### `> whoami`
+<!-- 👇 Replace this URL with your own banner image once you create it on Canva or Adobe Express -->
+<!-- Upload your image to your OumaimaElAsri repo and use: src="./banner.png" -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:1f2d3d&height=120&text=🧠%20Data%20girl%20who%20loves%20turning%20chaos%20into%20insights&fontSize=22&fontColor=388bfd&fontAlignY=50&desc=Nantes%20🇫🇷%20·%20EPSI%20M1%20·%20Spark%20%7C%20Airflow%20%7C%20ML%20%7C%20Power%20BI&descSize=14&descAlignY=75&descColor=8b949e" width="100%"/>
 
-```yaml
-name:        Oumaima El Asri
-location:    Nantes, France 🇫🇷
-education:   M1 Expert Informatique & SI · EPSI
-focus:
-  - 📦 Data Engineering   (Spark, Airflow, ETL)
-  - 🤖 Machine Learning   (Scikit-learn, RandomForest)
-  - 📊 Data Analysis      (Power BI, Pandas, SQL)
-  - 🌐 Full-Stack Data    (React, Python, APIs)
-seeking:     Alternance · Data Analyst / Engineer / Scientist
-languages:   🇫🇷 Français  🇬🇧 English  🇲🇦 عربي
-superpower:  "Reduced error rate from 15% to <1% 🧹"
+<br/>
+
 ```
-
-<br clear="right"/>
+ _______________________________________________
+|                                               |
+|  Hi, I'm Oumaima !                 🇲🇦 → 🇫🇷  |
+|                                               |
+|  • Turned 15% error rate → < 1%  with Python |
+|  • Built ML models that went live in prod     |
+|  • Obsessed with clean data & sharp visuals   |
+|  • Currently: alternance @ EPSI Nantes        |
+|  • Seeking: Data Analyst / Engineer / Sci     |
+|                                               |
+|  Fun fact: my code is cleaner than my desk   |
+|_______________________________________________|
+```
 
 ---
 
@@ -76,6 +79,7 @@ superpower:  "Reduced error rate from 15% to <1% 🧹"
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark&perline=4" />
 
 <br/>
+
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Avancé-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
@@ -99,7 +103,7 @@ superpower:  "Reduced error rate from 15% to <1% 🧹"
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OumaimaElAsri&theme=github-compact&hide_border=true&area=true&area_color=1f6feb&color=388bfd&line=388bfd&point=e6edf3" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OumaimaElAsri&theme=github-compact&hide_border=true&area=true&color=388bfd&line=388bfd&point=e6edf3" width="100%"/>
 </div>
 
 ---
