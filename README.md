@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumaimaelasri/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23238636.svg?style=for-the-badge&logo=github&logoColor=white)](https://oumaimaelasri.github.io/)
-[![Email](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elasriioumaima@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elasriioumaima%40gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=OumaimaElAsri&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/OumaimaElAsri)
 
 </div>
