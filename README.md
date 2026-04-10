@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1f6feb,100:388bfd&height=220&section=header&text=Oumaima%20El%20Asri&fontSize=60&fontColor=e6edf3&fontAlignY=40&desc=✦%20Data%20Engineer%20%20·%20%20ML%20Engineer%20%20·%20%20Full-Stack%20Data%20✦&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1f6feb,100:388bfd&height=220&section=header&text=Oumaima%20El%20Asri&fontSize=60&fontColor=e6edf3&fontAlignY=40&desc=✦%20Data%20Engineer%20%20·%20%20ML%20Engineer%20%20·%20%20Full-Stack%20Data%20✦&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -56,7 +56,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Avancé-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <br/><br/>
 
